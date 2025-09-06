@@ -4,6 +4,6 @@ using namespace std;
 //Hello World 1st Prgm   Amjad Althabeh
 
 int main() {
-    cout << "Hello World" << endl;
+    cout << "Testing the git merge command" << endl;
     return 0;
 }
